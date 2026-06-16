@@ -1,11 +1,11 @@
 {
+  "uuid": "MaximizeToEmptyWorkspace@mrhuang.github.com",
   "name": "Maximize To Empty Workspace",
-  "description": "New and maximized windows will be moved to empty workspaces.\nSupports multiple monitors.",
-  "url":"https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace",
-  "uuid": "MaximizeToEmptyWorkspace-extension@kaisersite.de",
+  "description": "Move maximized or fullscreen windows to an empty workspace and restore workspace order when they are unmaximized, minimized, or closed.",
+  "url":"https://github.com/mrhuanglearn/gnome-shell-extension-maximize-to-empty-workspace",
   "shell-version": [
-    "45",
-    "46"
+    "50"
   ],
-  "version": 14
+  "version-name": "50.2",
+  "version": 16
 }
